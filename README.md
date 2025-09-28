@@ -6,8 +6,7 @@ A complete implementation of the classic Dr. Mario puzzle game written in MIPS A
 
 This project is a faithful recreation of the classic Nintendo Dr. Mario game, implemented entirely in MIPS Assembly language. The game features falling capsules that players must arrange to eliminate viruses, complete with gravity mechanics, collision detection, and background music.
 
-**Author:** Jinbo Chang (Student ID: 1004821419)  
-**Course:** CSC258H1 - Computer Organization  
+**Author:** Jinbo Chang 
 **Institution:** University of Toronto
 
 ## 🎮 Game Features
